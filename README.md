@@ -12,7 +12,6 @@ The data was analyzed to provide answers to the following questions:
 
 - How are expenses distributed across different categories?
 - How do expenses change over time?
-- What are the main fixed and variable costs?
 - How do spending patterns differ between residents?
 - Are there any months with unusually high expenses?
 - What is the average monthly spending?
