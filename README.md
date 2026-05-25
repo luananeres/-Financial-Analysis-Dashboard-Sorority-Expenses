@@ -41,11 +41,7 @@ The dataset was processed, analyzed, and visualized using:
 An interactive dashboard was created in Power BI, presenting the analysis in a clear and structured way.
 
 You can download and explore the dashboard file, or view the image below:
-
-## 📊 Dashboard Preview
-
-dashboard.png
-
+![Dashboard](dashboard
 
 ---
 
