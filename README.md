@@ -42,6 +42,8 @@ An interactive dashboard was created in Power BI, presenting the analysis in a c
 
 You can download and explore the dashboard file, or view the image below:
 
+## 📊 Dashboard Preview
+
 dashboard.png
 
 
